@@ -1,6 +1,6 @@
 [package]
 name        = "axum-authentik-auth"
-version     = "0.1.0"
+version     = "0.1.1"
 edition     = "2024"
 description = "Axum extractor and middleware for authentik Proxy Provider forward auth"
 license     = "MIT OR Apache-2.0"
